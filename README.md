@@ -43,9 +43,6 @@
 
 6. 使用图片懒加载
 
-   <img src="README.assets/1597214258319.png" alt="1597214258319" style="zoom: 33%;" /><img src="README.assets/1597214685328.png" alt="1597214685328" style="zoom: 33%;" />
-
-   
 
 7. 完善部分细节
 
