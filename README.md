@@ -24,7 +24,9 @@
    ​	原因：未知
 
    ​	解决方法：在deactivated()生命周期函数中记录离开时的Y值时，不要像视频中一样进行封装，而是直接获取
+   
    ​		正确：this.saveY = -this.$refs.scroll.scroll.y
+   
    ​		错误：this.saveY = -this.$refs.scroll.scrollY （scrollY为Scroll.vue中的方法：scrollY() {return this.scroll.y}）
 
    
